@@ -7,4 +7,4 @@ Cada pasta possui os 'mains' respectivos de cada atividade, seus códigos e como
 
 
 No segundo exercicio, eu utilizei uma biblioteca chamada pandas com openpyxl.
-Após instalar a api, eu localizei o diretório do arquivo a partir dela e então declarei as variaveis de acordo com as colunas que possuiam suas respectivas informações como a contagem de quantas máquinas tem de cada ID e a coluna de Pontos e fiz a soma dos pontos de acordo com o enunciado.
+Após instalar a biblioteca, eu localizei o diretório do arquivo a partir dela e então declarei as variaveis de acordo com as colunas que possuiam suas respectivas informações como a contagem de quantas máquinas tem de cada ID e a coluna de Pontos e fiz a soma dos pontos de acordo com o enunciado.
